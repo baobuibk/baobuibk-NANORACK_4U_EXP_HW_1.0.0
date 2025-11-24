@@ -475,7 +475,7 @@ GenerateClassCluster=0
 DocumentUniqueId=GKWPWHIP
 
 [Document26]
-DocumentPath=SLT.PcbDoc
+DocumentPath=BEE-PC_EXP_V100.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -492,7 +492,7 @@ GenerateClassCluster=0
 DocumentUniqueId=SWVTUULP
 
 [Document27]
-DocumentPath=SLT.BomDoc
+DocumentPath=BEE-PC_EXP_V100.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1208,9 +1208,9 @@ Configuration1_Item3=OpenExported=False|AddToProject=False|ReportBOMViolationsIn
 Configuration1_Name4=GroupOrder
 Configuration1_Item4=
 Configuration1_Name5=VisibleOrder
-Configuration1_Item5=Designator=219|Footprint=213|Comment=153|Description=152|Quantity=98|TargetPrice=79|Manufacturer 1=102|Manufacturer Part Number 1=169|Note=286
+Configuration1_Item5=Designator=219|Footprint=143|Comment=109|Description=72|Quantity=32|TargetPrice=47|DesignItemId=100|Manufacturer 1=102|Manufacturer Part Number 1=169|Note=286
 Configuration1_Name6=VisibleOrder_Base
-Configuration1_Item6=Designator=219|Footprint=213|Comment=153|Description=152|Quantity=98|TargetPrice=79|Manufacturer 1=102|Manufacturer Part Number 1=169|Note=286
+Configuration1_Item6=Designator=219|Footprint=143|Comment=109|Description=72|Quantity=32|TargetPrice=47|DesignItemId=100|Manufacturer 1=102|Manufacturer Part Number 1=169|Note=286
 Configuration1_Name7=VisibleOrder_Consolidated
 Configuration1_Item7=Line #=53|Comment=100|Description=100|Designator=100|Revision ID=138|Revision State=128|Revision Status=97|Quantity=66|TargetPrice=100|Manufacturer 1=99|Manufacturer Part Number 1=166|Manufacturer Lifecycle 1=142|Supplier 1=72|Supplier Part Number 1=138|Supplier Unit Price 1=122|Supplier Subtotal 1=116
 Configuration1_Name8=VisibleOrder_Flat
