@@ -1,0 +1,257 @@
+Added Component: Designator=U2(AP6-00118)
+Add component (AddParameter): Name = "AN"; Value = "A06-1541"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1,60000002384186"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "MICROCHIP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "ATSAMV71Q21B-AAB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartGroup"; Value = "Integrated Circuits,MCU, MPU, DSP,ARM MCU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureRange"; Value = "-40°C to +105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "SAMV71Q21B"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found QFN40P400X400X80-29N
+Add Component: Footprint Not Found SOIC_PRQ1_TEX
+Add Component: Footprint Not Found SOIC8_150MIL_N_ISI
+Added Component: Designator=XC1(AP7-00044)
+Add component (AddParameter): Name = "AN"; Value = "A07-0052"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2,07999992370605"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Micro Crystal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "MS1V-T1K 32.768kHz 7pF +/-20PPM TA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartGroup"; Value = "Frequency devices,Crystals,SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureRange"; Value = "-40 /+85"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "+/- 20 PPM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "32.768kHz +/-20PPM 7pF  SMD"; VariantName = "[No Variations]"
+Added Component: Designator=XC2(AP7-00039)
+Add component (AddParameter): Name = "AN"; Value = "A07-0042"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design comment"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1,20000004768372"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Fox  Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "FQ5032B-12.000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartGroup"; Value = "Frequency devices,Crystals,SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureRange"; Value = "0°C ~ 70°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±30ppm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "12.00MHz"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin J19-1
+Add Pin To Net: Unknown Pin: Pin J19-2
+Add Pin To Net: Unknown Pin: Pin J19-3
+Add Pin To Net: Unknown Pin: Pin J19-4
+Add Pin To Net: Unknown Pin: Pin J19-5
+Add Pin To Net: Unknown Pin: Pin J19-6
+Add Pin To Net: Unknown Pin: Pin J19-7
+Add Pin To Net: Unknown Pin: Pin J19-8
+Add Pin To Net: Unknown Pin: Pin J19-9
+Add Pin To Net: Unknown Pin: Pin J19-10
+Add Pin To Net: Unknown Pin: Pin J19-11
+Add Pin To Net: Unknown Pin: Pin J19-M1
+Add Pin To Net: Unknown Pin: Pin J19-M2
+Add Pin To Net: Unknown Pin: Pin J?-M1
+Add Pin To Net: Unknown Pin: Pin J?-M2
+Added Pin To Net: NetName=PD00 Pin=U2-1
+Added Pin To Net: NetName=PD31 Pin=U2-2
+Added Pin To Net: NetName=+VDDCORE Pin=U2-3
+Added Pin To Net: NetName=PE00 Pin=U2-4
+Added Pin To Net: NetName=+3.3V_MCU Pin=U2-5
+Added Pin To Net: NetName=PE01 Pin=U2-6
+Added Pin To Net: NetName=PE02 Pin=U2-7
+Added Pin To Net: NetName=GND Pin=U2-8
+Added Pin To Net: NetName=+3.3V_MCU Pin=U2-9
+Added Pin To Net: NetName=PE03 Pin=U2-10
+Added Pin To Net: NetName=PC00 Pin=U2-11
+Added Pin To Net: NetName=PC27 Pin=U2-12
+Added Pin To Net: NetName=PC26 Pin=U2-13
+Added Pin To Net: NetName=PC31 Pin=U2-14
+Added Pin To Net: NetName=PC30 Pin=U2-15
+Added Pin To Net: NetName=PC29 Pin=U2-16
+Added Pin To Net: NetName=ADC_TEMP7 Pin=U2-17
+Added Pin To Net: NetName=ADC_TEMP5 Pin=U2-18
+Added Pin To Net: NetName=ADC_TEMP6 Pin=U2-19
+Added Pin To Net: NetName=ADC_TEMP4 Pin=U2-20
+Added Pin To Net: NetName=ADC_TEMP3 Pin=U2-21
+Added Pin To Net: NetName=ADC_TEMP2 Pin=U2-22
+Added Pin To Net: NetName=ADC_TEMP1 Pin=U2-23
+Added Pin To Net: NetName=PA18 Pin=U2-24
+Added Pin To Net: NetName=PA17 Pin=U2-25
+Added Pin To Net: NetName=PB02 Pin=U2-26
+Added Pin To Net: NetName=PE04 Pin=U2-27
+Added Pin To Net: NetName=PE05 Pin=U2-28
+Added Pin To Net: NetName=+VDDCORE Pin=U2-29
+Added Pin To Net: NetName=+3.3V_MCU Pin=U2-30
+Added Pin To Net: NetName=PB03 Pin=U2-31
+Added Pin To Net: NetName=PA21 Pin=U2-32
+Added Pin To Net: NetName=+VDDCORE Pin=U2-33
+Added Pin To Net: NetName=PD30 Pin=U2-34
+Added Pin To Net: NetName=PA07_XIN32 Pin=U2-35
+Added Pin To Net: NetName=PA08_XOUT32 Pin=U2-36
+Added Pin To Net: NetName=PA22 Pin=U2-37
+Added Pin To Net: NetName=PC01 Pin=U2-38
+Added Pin To Net: NetName=PC02 Pin=U2-39
+Added Pin To Net: NetName=PC03 Pin=U2-40
+Added Pin To Net: NetName=PC04 Pin=U2-41
+Added Pin To Net: NetName=PA13 Pin=U2-42
+Added Pin To Net: NetName=+3.3V_MCU Pin=U2-43
+Added Pin To Net: NetName=GND Pin=U2-44
+Added Pin To Net: NetName=PA16 Pin=U2-45
+Added Pin To Net: NetName=PA23 Pin=U2-46
+Added Pin To Net: NetName=PD27 Pin=U2-47
+Added Pin To Net: NetName=PC07 Pin=U2-48
+Added Pin To Net: NetName=PA15 Pin=U2-49
+Added Pin To Net: NetName=+VDDCORE Pin=U2-50
+Added Pin To Net: NetName=PA14 Pin=U2-51
+Added Pin To Net: NetName=PD25 Pin=U2-52
+Added Pin To Net: NetName=PD26 Pin=U2-53
+Added Pin To Net: NetName=PC06 Pin=U2-54
+Added Pin To Net: NetName=PD24 Pin=U2-55
+Added Pin To Net: NetName=PA24 Pin=U2-56
+Added Pin To Net: NetName=PD23 Pin=U2-57
+Added Pin To Net: NetName=PC05 Pin=U2-58
+Added Pin To Net: NetName=PA25 Pin=U2-59
+Added Pin To Net: NetName=PD22 Pin=U2-60
+Added Pin To Net: NetName=GND Pin=U2-61
+Added Pin To Net: NetName=PA26 Pin=U2-62
+Added Pin To Net: NetName=PD21 Pin=U2-63
+Added Pin To Net: NetName=PA11 Pin=U2-64
+Added Pin To Net: NetName=PD20 Pin=U2-65
+Added Pin To Net: NetName=PA10 Pin=U2-66
+Added Pin To Net: NetName=PA12 Pin=U2-68
+Added Pin To Net: NetName=PA27 Pin=U2-70
+Added Pin To Net: NetName=PD28 Pin=U2-71
+Added Pin To Net: NetName=+3.3V_MCU Pin=U2-72
+Added Pin To Net: NetName=PA05 Pin=U2-73
+Added Pin To Net: NetName=PD17 Pin=U2-74
+Added Pin To Net: NetName=PA09 Pin=U2-75
+Added Pin To Net: NetName=PC28 Pin=U2-76
+Added Pin To Net: NetName=PA04 Pin=U2-77
+Added Pin To Net: NetName=PD16 Pin=U2-78
+Added Pin To Net: NetName=PB06 Pin=U2-79
+Added Pin To Net: NetName=+3.3V_MCU Pin=U2-80
+Added Pin To Net: NetName=+VDDCORE Pin=U2-81
+Added Pin To Net: NetName=PC08 Pin=U2-82
+Added Pin To Net: NetName=MCU_nRESET Pin=U2-83
+Added Pin To Net: NetName=PD14 Pin=U2-84
+Added Pin To Net: NetName=MCU_TST Pin=U2-85
+Added Pin To Net: NetName=PC09 Pin=U2-86
+Added Pin To Net: NetName=PB12 Pin=U2-87
+Added Pin To Net: NetName=PD13 Pin=U2-88
+Added Pin To Net: NetName=PB07 Pin=U2-89
+Added Pin To Net: NetName=PC10 Pin=U2-90
+Added Pin To Net: NetName=PA03 Pin=U2-91
+Added Pin To Net: NetName=PD12 Pin=U2-92
+Added Pin To Net: NetName=NetR12_1 Pin=U2-93
+Added Pin To Net: NetName=PC11 Pin=U2-94
+Added Pin To Net: NetName=GND Pin=U2-95
+Added Pin To Net: NetName=+3.3V_MCU Pin=U2-96
+Added Pin To Net: NetName=PC14 Pin=U2-97
+Added Pin To Net: NetName=PD11 Pin=U2-98
+Added Pin To Net: NetName=PA01 Pin=U2-99
+Added Pin To Net: NetName=PC16 Pin=U2-100
+Added Pin To Net: NetName=PD10 Pin=U2-101
+Added Pin To Net: NetName=PA00 Pin=U2-102
+Added Pin To Net: NetName=PC17 Pin=U2-103
+Added Pin To Net: NetName=MCU_JTAGSEL Pin=U2-104
+Added Pin To Net: NetName=PB04 Pin=U2-105
+Added Pin To Net: NetName=PD15 Pin=U2-106
+Added Pin To Net: NetName=+VDDCORE Pin=U2-107
+Added Pin To Net: NetName=PD29 Pin=U2-108
+Added Pin To Net: NetName=PB05 Pin=U2-109
+Added Pin To Net: NetName=PD09 Pin=U2-110
+Added Pin To Net: NetName=PC18 Pin=U2-111
+Added Pin To Net: NetName=PA28 Pin=U2-112
+Added Pin To Net: NetName=PD08 Pin=U2-113
+Added Pin To Net: NetName=PA06 Pin=U2-114
+Added Pin To Net: NetName=GND Pin=U2-115
+Added Pin To Net: NetName=PA30 Pin=U2-116
+Added Pin To Net: NetName=PC19 Pin=U2-117
+Added Pin To Net: NetName=PA31 Pin=U2-118
+Added Pin To Net: NetName=PD07 Pin=U2-119
+Added Pin To Net: NetName=PC20 Pin=U2-120
+Added Pin To Net: NetName=PD06 Pin=U2-121
+Added Pin To Net: NetName=PC21 Pin=U2-122
+Added Pin To Net: NetName=+VDDCORE Pin=U2-123
+Added Pin To Net: NetName=PC22 Pin=U2-124
+Added Pin To Net: NetName=PD05 Pin=U2-125
+Added Pin To Net: NetName=PD04 Pin=U2-126
+Added Pin To Net: NetName=PC23 Pin=U2-127
+Added Pin To Net: NetName=PD03 Pin=U2-128
+Added Pin To Net: NetName=PA29 Pin=U2-129
+Added Pin To Net: NetName=PC24 Pin=U2-130
+Added Pin To Net: NetName=PD02 Pin=U2-131
+Added Pin To Net: NetName=PD01 Pin=U2-132
+Added Pin To Net: NetName=PC25 Pin=U2-133
+Added Pin To Net: NetName=+3.3V_MCU Pin=U2-134
+Added Pin To Net: NetName=GND Pin=U2-135
+Added Pin To Net: NetName=ADT2_USB_D_N Pin=U2-136
+Added Pin To Net: NetName=ADT2_USB_D_P Pin=U2-137
+Added Pin To Net: NetName=GND Pin=U2-138
+Added Pin To Net: NetName=+VDDCORE Pin=U2-139
+Added Pin To Net: NetName=NetC14_2 Pin=U2-140
+Added Pin To Net: NetName=PB08 Pin=U2-141
+Added Pin To Net: NetName=PB09 Pin=U2-142
+Added Pin To Net: NetName=+3.3V_MCU Pin=U2-143
+Added Pin To Net: NetName=PB13 Pin=U2-144
+Add Pin To Net: Unknown Pin: Pin U9-1
+Add Pin To Net: Unknown Pin: Pin U9-2
+Add Pin To Net: Unknown Pin: Pin U9-3
+Add Pin To Net: Unknown Pin: Pin U9-4
+Add Pin To Net: Unknown Pin: Pin U9-5
+Add Pin To Net: Unknown Pin: Pin U9-6
+Add Pin To Net: Unknown Pin: Pin U9-7
+Add Pin To Net: Unknown Pin: Pin U9-8
+Add Pin To Net: Unknown Pin: Pin U9-9
+Add Pin To Net: Unknown Pin: Pin U9-11
+Add Pin To Net: Unknown Pin: Pin U9-14
+Add Pin To Net: Unknown Pin: Pin U9-15
+Add Pin To Net: Unknown Pin: Pin U9-16
+Add Pin To Net: Unknown Pin: Pin U9-17
+Add Pin To Net: Unknown Pin: Pin U9-18
+Add Pin To Net: Unknown Pin: Pin U9-19
+Add Pin To Net: Unknown Pin: Pin U9-20
+Add Pin To Net: Unknown Pin: Pin U9-21
+Add Pin To Net: Unknown Pin: Pin U9-22
+Add Pin To Net: Unknown Pin: Pin U9-23
+Add Pin To Net: Unknown Pin: Pin U9-24
+Add Pin To Net: Unknown Pin: Pin U9-25
+Add Pin To Net: Unknown Pin: Pin U9-26
+Add Pin To Net: Unknown Pin: Pin U9-27
+Add Pin To Net: Unknown Pin: Pin U9-28
+Add Pin To Net: Unknown Pin: Pin U9-29
+Add Pin To Net: Unknown Pin: Pin U30-9
+Add Pin To Net: Unknown Pin: Pin U31-9
+Add Pin To Net: Unknown Pin: Pin U32-9
+Add Pin To Net: Unknown Pin: Pin U33-9
+Add Pin To Net: Unknown Pin: Pin U37-1
+Add Pin To Net: Unknown Pin: Pin U37-2
+Add Pin To Net: Unknown Pin: Pin U37-3
+Add Pin To Net: Unknown Pin: Pin U37-4
+Add Pin To Net: Unknown Pin: Pin U37-5
+Add Pin To Net: Unknown Pin: Pin U37-6
+Add Pin To Net: Unknown Pin: Pin U37-7
+Add Pin To Net: Unknown Pin: Pin U37-8
+Add Pin To Net: Unknown Pin: Pin U37-9
+Add Pin To Net: Unknown Pin: Pin U37-10
+Add Pin To Net: Unknown Pin: Pin U37-11
+Add Pin To Net: Unknown Pin: Pin U37-12
+Add Pin To Net: Unknown Pin: Pin U37-13
+Add Pin To Net: Unknown Pin: Pin U37-14
+Add Pin To Net: Unknown Pin: Pin U37-15
+Add Pin To Net: Unknown Pin: Pin U37-16
+Add Pin To Net: Unknown Pin: Pin U38-1
+Add Pin To Net: Unknown Pin: Pin U38-2
+Add Pin To Net: Unknown Pin: Pin U38-3
+Add Pin To Net: Unknown Pin: Pin U38-4
+Add Pin To Net: Unknown Pin: Pin U38-5
+Add Pin To Net: Unknown Pin: Pin U38-6
+Add Pin To Net: Unknown Pin: Pin U38-7
+Add Pin To Net: Unknown Pin: Pin U38-8
+Added Pin To Net: NetName=PA07_XIN32 Pin=XC1-1
+Added Pin To Net: NetName=PA08_XOUT32 Pin=XC1-2
+Added Pin To Net: NetName=GND Pin=XC1-3
+Added Pin To Net: NetName=MCU_OSCOUT Pin=XC2-1
+Added Pin To Net: NetName=GND Pin=XC2-2
+Added Pin To Net: NetName=MCU_OSCIN Pin=XC2-3
+Added Pin To Net: NetName=GND Pin=XC2-4
+Add Net: Net with name "PD18" already exists
+Add Net: Net with name "PD19" already exists
+Add Class Member: Failed to add class member : Component J19 0533981171
+Added Member To Class: ClassName=08_MCU Member=Component U2 SAMV71Q21B
+Add Class Member: Failed to add class member : Component U9 IC_SW_MAX14662ETI+T
+Add Class Member: Failed to add class member : Component U37 SN3257QPWRQ1
+Add Class Member: Failed to add class member : Component U38 IS66WVS8M8FBLL-104NLI
+Added Member To Class: ClassName=08_MCU Member=Component XC1 Farnell order no:1539364
+Added Member To Class: ClassName=08_MCU Member=Component XC2
