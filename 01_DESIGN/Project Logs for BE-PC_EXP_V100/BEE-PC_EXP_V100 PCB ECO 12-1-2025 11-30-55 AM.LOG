@@ -1,0 +1,36 @@
+Added Component: Designator=J26(MOLEX_0532611171)
+Added Component: Designator=J27(MOLEX_0532611171)
+Add Pin To Net: Unknown Pin: Pin J19-M1
+Add Pin To Net: Unknown Pin: Pin J19-M2
+Added Pin To Net: NetName=CAM1_D0_N Pin=J26-1
+Added Pin To Net: NetName=CAM1_D0_P Pin=J26-2
+Added Pin To Net: NetName=CAM1_D1_N Pin=J26-3
+Added Pin To Net: NetName=CAM1_D1_P Pin=J26-4
+Added Pin To Net: NetName=CAM1_CK_N Pin=J26-5
+Added Pin To Net: NetName=CAM1_CK_P Pin=J26-6
+Added Pin To Net: NetName=GND Pin=J26-7
+Added Pin To Net: NetName=CAM1_I2C_SCL Pin=J26-8
+Added Pin To Net: NetName=CAM1_I2C_SDA Pin=J26-9
+Added Pin To Net: NetName=GND Pin=J26-10
+Added Pin To Net: NetName=+5V Pin=J26-11
+Added Pin To Net: NetName=GND Pin=J26-M1
+Added Pin To Net: NetName=GND Pin=J26-M2
+Added Pin To Net: NetName=CAM2_D0_N Pin=J27-1
+Added Pin To Net: NetName=CAM2_D0_P Pin=J27-2
+Added Pin To Net: NetName=CAM2_D1_N Pin=J27-3
+Added Pin To Net: NetName=CAM2_D1_P Pin=J27-4
+Added Pin To Net: NetName=CAM2_CK_N Pin=J27-5
+Added Pin To Net: NetName=CAM2_CK_P Pin=J27-6
+Added Pin To Net: NetName=GND Pin=J27-7
+Added Pin To Net: NetName=CAM2_I2C_SCL Pin=J27-8
+Added Pin To Net: NetName=CAM2_I2C_SDA Pin=J27-9
+Added Pin To Net: NetName=GND Pin=J27-10
+Added Pin To Net: NetName=+5V Pin=J27-11
+Added Pin To Net: NetName=GND Pin=J27-M1
+Added Pin To Net: NetName=GND Pin=J27-M2
+Add Pin To Net: Unknown Pin: Pin U30-9
+Add Pin To Net: Unknown Pin: Pin U31-9
+Add Pin To Net: Unknown Pin: Pin U32-9
+Add Pin To Net: Unknown Pin: Pin U33-9
+Added Member To Class: ClassName=06_SOM_CAM Member=Component J26 0533981171
+Added Member To Class: ClassName=06_SOM_CAM Member=Component J27 0533981171

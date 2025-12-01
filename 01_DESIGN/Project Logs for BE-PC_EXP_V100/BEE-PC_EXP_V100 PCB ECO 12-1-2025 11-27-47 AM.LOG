@@ -1,0 +1,99 @@
+Added Component: Designator=U9(QFN40P400X400X80-29N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Maxim Integrated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MAX14662ETI+T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TQFN-28 Maxim"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MAX14662ETI%2BT/Maxim%20Integrated/view-part/546683/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U44(PI3WVR626XEBEX_DIO)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Diodes Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin J19-M1
+Add Pin To Net: Unknown Pin: Pin J19-M2
+Add Pin To Net: Unknown Pin: Pin J26-1
+Add Pin To Net: Unknown Pin: Pin J26-2
+Add Pin To Net: Unknown Pin: Pin J26-3
+Add Pin To Net: Unknown Pin: Pin J26-4
+Add Pin To Net: Unknown Pin: Pin J26-5
+Add Pin To Net: Unknown Pin: Pin J26-6
+Add Pin To Net: Unknown Pin: Pin J26-7
+Add Pin To Net: Unknown Pin: Pin J26-8
+Add Pin To Net: Unknown Pin: Pin J26-9
+Add Pin To Net: Unknown Pin: Pin J26-10
+Add Pin To Net: Unknown Pin: Pin J26-11
+Add Pin To Net: Unknown Pin: Pin J26-M1
+Add Pin To Net: Unknown Pin: Pin J26-M2
+Add Pin To Net: Unknown Pin: Pin J27-1
+Add Pin To Net: Unknown Pin: Pin J27-2
+Add Pin To Net: Unknown Pin: Pin J27-3
+Add Pin To Net: Unknown Pin: Pin J27-4
+Add Pin To Net: Unknown Pin: Pin J27-5
+Add Pin To Net: Unknown Pin: Pin J27-6
+Add Pin To Net: Unknown Pin: Pin J27-7
+Add Pin To Net: Unknown Pin: Pin J27-8
+Add Pin To Net: Unknown Pin: Pin J27-9
+Add Pin To Net: Unknown Pin: Pin J27-10
+Add Pin To Net: Unknown Pin: Pin J27-11
+Add Pin To Net: Unknown Pin: Pin J27-M1
+Add Pin To Net: Unknown Pin: Pin J27-M2
+Added Pin To Net: NetName=NetR122_2 Pin=U9-1
+Added Pin To Net: NetName=TEC_ADC_1 Pin=U9-2
+Added Pin To Net: NetName=TEC_ADC_2 Pin=U9-3
+Added Pin To Net: NetName=TEC_ADC_3 Pin=U9-4
+Added Pin To Net: NetName=TEC_ADC_4 Pin=U9-5
+Added Pin To Net: NetName=eFUSE_ILIM_5V_TEC Pin=U9-6
+Added Pin To Net: NetName=eFUSE_ILIM_5V_HD4 Pin=U9-7
+Added Pin To Net: NetName=NetR123_2 Pin=U9-8
+Added Pin To Net: NetName=NetR124_2 Pin=U9-9
+Added Pin To Net: NetName=GND Pin=U9-11
+Added Pin To Net: NetName=PB03 Pin=U9-14
+Added Pin To Net: NetName=PB03 Pin=U9-15
+Added Pin To Net: NetName=PB03 Pin=U9-16
+Added Pin To Net: NetName=PB03 Pin=U9-17
+Added Pin To Net: NetName=PB03 Pin=U9-18
+Added Pin To Net: NetName=PB03 Pin=U9-19
+Added Pin To Net: NetName=PB03 Pin=U9-20
+Added Pin To Net: NetName=PB03 Pin=U9-21
+Added Pin To Net: NetName=NetR121_2 Pin=U9-22
+Added Pin To Net: NetName=NetR119_2 Pin=U9-23
+Added Pin To Net: NetName=MCU_I2C0_SCL Pin=U9-24
+Added Pin To Net: NetName=GND Pin=U9-25
+Added Pin To Net: NetName=+3.3V Pin=U9-26
+Added Pin To Net: NetName=MCU_I2C0_SDA Pin=U9-27
+Added Pin To Net: NetName=NetR120_2 Pin=U9-28
+Added Pin To Net: NetName=GND Pin=U9-29
+Add Pin To Net: Unknown Pin: Pin U30-9
+Add Pin To Net: Unknown Pin: Pin U31-9
+Add Pin To Net: Unknown Pin: Pin U32-9
+Add Pin To Net: Unknown Pin: Pin U33-9
+Added Pin To Net: NetName=NetR306_1 Pin=U44-1
+Added Pin To Net: NetName=NetR177_1 Pin=U44-2
+Added Pin To Net: NetName=NetR216_1 Pin=U44-3
+Added Pin To Net: NetName=NetR176_1 Pin=U44-4
+Added Pin To Net: NetName=GND Pin=U44-5
+Added Pin To Net: NetName=SOM_CAM_CK_P Pin=U44-6
+Added Pin To Net: NetName=SOM_CAM_CK_N Pin=U44-7
+Added Pin To Net: NetName=SOM_CAM_D0_P Pin=U44-8
+Added Pin To Net: NetName=GND Pin=U44-9
+Added Pin To Net: NetName=SOM_CAM_D0_N Pin=U44-10
+Added Pin To Net: NetName=SOM_CAM_D1_P Pin=U44-11
+Added Pin To Net: NetName=SOM_CAM_D1_N Pin=U44-12
+Added Pin To Net: NetName=SOM_CAM_MIPI_SEL Pin=U44-13
+Added Pin To Net: NetName=NetR451_1 Pin=U44-14
+Added Pin To Net: NetName=NetR215_1 Pin=U44-15
+Added Pin To Net: NetName=NetR450_1 Pin=U44-16
+Added Pin To Net: NetName=NetR212_1 Pin=U44-17
+Added Pin To Net: NetName=+1.8V Pin=U44-18
+Added Pin To Net: NetName=NetR321_1 Pin=U44-19
+Added Pin To Net: NetName=NetR211_1 Pin=U44-20
+Added Pin To Net: NetName=GND Pin=U44-21
+Added Pin To Net: NetName=NetR308_1 Pin=U44-22
+Added Pin To Net: NetName=NetR187_1 Pin=U44-23
+Added Pin To Net: NetName=GND Pin=U44-24
+Added Pin To Net: NetName=GND Pin=U44-25
+Add Class Member: Failed to add class member : Component J26 0533981171
+Add Class Member: Failed to add class member : Component J27 0533981171
+Added Member To Class: ClassName=12_TEC Member=Component U9 MAX14662ETI+T
+Added Member To Class: ClassName=06_SOM_CAM Member=Component U44 PI3WVR626XEBEX
