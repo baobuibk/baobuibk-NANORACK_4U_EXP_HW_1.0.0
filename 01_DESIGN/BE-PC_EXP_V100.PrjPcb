@@ -39,7 +39,7 @@ LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
 CrossRefSheetStyle=2
-CrossRefLocationStyle=0
+CrossRefLocationStyle=1
 CrossRefPorts=3
 CrossRefCrossSheets=1
 CrossRefSheetEntries=0
@@ -305,7 +305,7 @@ GenerateClassCluster=0
 DocumentUniqueId=LFVGYKCC
 
 [Document16]
-DocumentPath=G:\.shortcut-targets-by-id\1B8WPm6aLPymLOuz51mDqoItb9KAC0_hA\0_LAB_LIB\0_LIB\LABLIB.PcbLib
+DocumentPath=..\..\..\..\.shortcut-targets-by-id\1B8WPm6aLPymLOuz51mDqoItb9KAC0_hA\0_LAB_LIB\0_LIB\LABLIB.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -322,7 +322,7 @@ GenerateClassCluster=0
 DocumentUniqueId=GFWWSLYY
 
 [Document17]
-DocumentPath=G:\.shortcut-targets-by-id\1B8WPm6aLPymLOuz51mDqoItb9KAC0_hA\0_LAB_LIB\0_LIB\LABLIB.SchLib
+DocumentPath=..\..\..\..\.shortcut-targets-by-id\1B8WPm6aLPymLOuz51mDqoItb9KAC0_hA\0_LAB_LIB\0_LIB\LABLIB.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -339,7 +339,7 @@ GenerateClassCluster=0
 DocumentUniqueId=JFXOFFXT
 
 [Document18]
-DocumentPath=G:\.shortcut-targets-by-id\1B8WPm6aLPymLOuz51mDqoItb9KAC0_hA\0_LAB_LIB\0_LIB\new_component.PcbLib
+DocumentPath=..\..\..\..\.shortcut-targets-by-id\1B8WPm6aLPymLOuz51mDqoItb9KAC0_hA\0_LAB_LIB\0_LIB\new_component.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -356,7 +356,7 @@ GenerateClassCluster=0
 DocumentUniqueId=AGNYTDXW
 
 [Document19]
-DocumentPath=G:\.shortcut-targets-by-id\1B8WPm6aLPymLOuz51mDqoItb9KAC0_hA\0_LAB_LIB\0_LIB\new_component.SchLib
+DocumentPath=..\..\..\..\.shortcut-targets-by-id\1B8WPm6aLPymLOuz51mDqoItb9KAC0_hA\0_LAB_LIB\0_LIB\new_component.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -458,6 +458,23 @@ GenerateClassCluster=0
 DocumentUniqueId=OASGOWJC
 
 [Document25]
+DocumentPath=13_Sensors_Onboard.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=27
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=BQABJPEV
+
+[Document26]
 DocumentPath=14_HD4_PUMP.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -474,7 +491,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MPQATRTQ
 
-[Document26]
+[Document27]
 DocumentPath=15_SOLEDNOID.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -491,7 +508,24 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BBZRSVNY
 
-[Document27]
+[Document28]
+DocumentPath=15_SOLENOID 2.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=26
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=BQHDFLIY
+
+[Document29]
 DocumentPath=MOUTING.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -508,7 +542,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GKWPWHIP
 
-[Document28]
+[Document30]
 DocumentPath=BEE-PC_EXP_V100.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -525,7 +559,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SWVTUULP
 
-[Document29]
+[Document31]
 DocumentPath=BEE-PC_EXP_V100.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -542,7 +576,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document30]
+[Document32]
 DocumentPath=SLT.PCBDwf
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -559,203 +593,275 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TZJFRVZN
 
+[Document33]
+DocumentPath=06_SAMA7G54-PMIC.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=BIKFRELF
+
+[Document34]
+DocumentPath=06_SAMA7G54-MPU.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=TLVGYFRZ
+
+[Document35]
+DocumentPath=06_SAMA7G54-PIO.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=WTWDJOWX
+
+[Document36]
+DocumentPath=06_SAMA7G54-DDR3.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=LQHEPCLG
+
 [GeneratedDocument1]
-DocumentPath=Project Outputs for SLT\Design Rule Check - SLT.html
+DocumentPath=Project Outputs for BE-PC_EXP_V100\Design Rule Check - BEE-PC_EXP_V100.html
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for SLT_110\Design Rule Check - SLT.html
+DocumentPath=Project Outputs for SLT\Design Rule Check - SLT.html
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for SLT\L1 TOP.gbr
+DocumentPath=Project Outputs for SLT_110\Design Rule Check - SLT.html
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for SLT_110\L1 TOP.gbr
+DocumentPath=Project Outputs for SLT\L1 TOP.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for SLT\L2 GND_1.gbr
+DocumentPath=Project Outputs for SLT_110\L1 TOP.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for SLT_110\L2 GND_1.gbr
+DocumentPath=Project Outputs for SLT\L2 GND_1.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for SLT\L3 SIGNAL.gbr
+DocumentPath=Project Outputs for SLT_110\L2 GND_1.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for SLT_110\L3 SIGNAL.gbr
+DocumentPath=Project Outputs for SLT\L3 SIGNAL.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for SLT\L4 PWR.gbr
+DocumentPath=Project Outputs for SLT_110\L3 SIGNAL.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for SLT_110\L4 PWR.gbr
+DocumentPath=Project Outputs for SLT\L4 PWR.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for SLT\L5 GND 2.gbr
+DocumentPath=Project Outputs for SLT_110\L4 PWR.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for SLT_110\L5 GND 2.gbr
+DocumentPath=Project Outputs for SLT\L5 GND 2.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for SLT\L6 BOT.gbr
+DocumentPath=Project Outputs for SLT_110\L5 GND 2.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for SLT_110\L6 BOT.gbr
+DocumentPath=Project Outputs for SLT\L6 BOT.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for SLT\Pick Place for SLT.csv
+DocumentPath=Project Outputs for SLT_110\L6 BOT.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for SLT\Pick Place for SLT.txt
+DocumentPath=Project Outputs for SLT\Pick Place for SLT.csv
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for SLT\SLT.DRR
+DocumentPath=Project Outputs for SLT\Pick Place for SLT.txt
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for SLT_110\SLT.DRR
+DocumentPath=Project Outputs for SLT\SLT.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs for SLT\SLT.EXTREP
+DocumentPath=Project Outputs for SLT_110\SLT.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Project Outputs for SLT_110\SLT.EXTREP
+DocumentPath=Project Outputs for SLT\SLT.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Project Outputs for SLT\SLT.LDP
+DocumentPath=Project Outputs for SLT_110\SLT.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=Project Outputs for SLT_110\SLT.LDP
+DocumentPath=Project Outputs for SLT\SLT.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=Project Outputs for SLT\SLT.REP
+DocumentPath=Project Outputs for SLT_110\SLT.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument24]
-DocumentPath=Project Outputs for SLT_110\SLT.REP
+DocumentPath=Project Outputs for SLT\SLT.REP
 DItemRevisionGUID=
 
 [GeneratedDocument25]
-DocumentPath=Project Outputs for SLT\SLT.TXT
+DocumentPath=Project Outputs for SLT_110\SLT.REP
 DItemRevisionGUID=
 
 [GeneratedDocument26]
-DocumentPath=Project Outputs for SLT_110\SLT.TXT
+DocumentPath=Project Outputs for SLT\SLT.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument27]
-DocumentPath=Project Outputs for SLT\SLT.xls
+DocumentPath=Project Outputs for SLT_110\SLT.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument28]
-DocumentPath=Project Outputs for SLT_110\SLT.xls
+DocumentPath=Project Outputs for SLT\SLT.xls
 DItemRevisionGUID=
 
 [GeneratedDocument29]
-DocumentPath=Project Outputs for SLT\SLT_Drawing_1.gbr
+DocumentPath=Project Outputs for SLT_110\SLT.xls
 DItemRevisionGUID=
 
 [GeneratedDocument30]
-DocumentPath=Project Outputs for SLT_110\SLT_Drawing_1.gbr
+DocumentPath=Project Outputs for SLT\SLT_Drawing_1.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument31]
-DocumentPath=Project Outputs for SLT\SLT_Drillmap_1.gbr
+DocumentPath=Project Outputs for SLT_110\SLT_Drawing_1.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument32]
-DocumentPath=Project Outputs for SLT_110\SLT_Drillmap_1.gbr
+DocumentPath=Project Outputs for SLT\SLT_Drillmap_1.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument33]
-DocumentPath=Project Outputs for SLT\SLT_Legend_Bot.gbr
+DocumentPath=Project Outputs for SLT_110\SLT_Drillmap_1.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument34]
-DocumentPath=Project Outputs for SLT_110\SLT_Legend_Bot.gbr
+DocumentPath=Project Outputs for SLT\SLT_Legend_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument35]
-DocumentPath=Project Outputs for SLT\SLT_Legend_Top.gbr
+DocumentPath=Project Outputs for SLT_110\SLT_Legend_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument36]
-DocumentPath=Project Outputs for SLT_110\SLT_Legend_Top.gbr
+DocumentPath=Project Outputs for SLT\SLT_Legend_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument37]
-DocumentPath=Project Outputs for SLT\SLT_Pads_Bot.gbr
+DocumentPath=Project Outputs for SLT_110\SLT_Legend_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument38]
-DocumentPath=Project Outputs for SLT_110\SLT_Pads_Bot.gbr
+DocumentPath=Project Outputs for SLT\SLT_Pads_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument39]
-DocumentPath=Project Outputs for SLT\SLT_Pads_Top.gbr
+DocumentPath=Project Outputs for SLT_110\SLT_Pads_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument40]
-DocumentPath=Project Outputs for SLT_110\SLT_Pads_Top.gbr
+DocumentPath=Project Outputs for SLT\SLT_Pads_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument41]
-DocumentPath=Project Outputs for SLT\SLT_Paste_Bot.gbr
+DocumentPath=Project Outputs for SLT_110\SLT_Pads_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument42]
-DocumentPath=Project Outputs for SLT_110\SLT_Paste_Bot.gbr
+DocumentPath=Project Outputs for SLT\SLT_Paste_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument43]
-DocumentPath=Project Outputs for SLT\SLT_Paste_Top.gbr
+DocumentPath=Project Outputs for SLT_110\SLT_Paste_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument44]
-DocumentPath=Project Outputs for SLT_110\SLT_Paste_Top.gbr
+DocumentPath=Project Outputs for SLT\SLT_Paste_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument45]
-DocumentPath=Project Outputs for SLT\SLT_Profile.gbr
+DocumentPath=Project Outputs for SLT_110\SLT_Paste_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument46]
-DocumentPath=Project Outputs for SLT_110\SLT_Profile.gbr
+DocumentPath=Project Outputs for SLT\SLT_Profile.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument47]
-DocumentPath=Project Outputs for SLT\SLT_Soldermask_Bot.gbr
+DocumentPath=Project Outputs for SLT_110\SLT_Profile.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument48]
-DocumentPath=Project Outputs for SLT_110\SLT_Soldermask_Bot.gbr
+DocumentPath=Project Outputs for SLT\SLT_Soldermask_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument49]
-DocumentPath=Project Outputs for SLT\SLT_Soldermask_Top.gbr
+DocumentPath=Project Outputs for SLT_110\SLT_Soldermask_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument50]
+DocumentPath=Project Outputs for SLT\SLT_Soldermask_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument51]
 DocumentPath=Project Outputs for SLT_110\SLT_Soldermask_Top.gbr
 DItemRevisionGUID=
 
@@ -1577,6 +1683,15 @@ Type147=1
 Type148=1
 Type149=1
 Type150=1
+Type151=1
+Type152=1
+Type153=1
+Type154=1
+Type155=1
+Type156=1
+Type157=1
+Type158=1
+Type159=1
 
 [Difference Levels]
 Type1=1
@@ -1660,6 +1775,12 @@ Type78=1
 Type79=1
 Type80=1
 Type81=1
+Type82=1
+Type83=1
+Type84=1
+Type85=1
+Type86=1
+Type87=1
 
 [Electrical Rules Check]
 Type1=1
@@ -1816,6 +1937,15 @@ Type151=2
 Type152=1
 Type153=1
 Type154=0
+Type155=0
+Type156=0
+Type157=0
+Type158=0
+Type159=0
+Type160=0
+Type161=0
+Type162=1
+Type163=1
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
@@ -1909,44 +2039,57 @@ Net23=NetName=I2C4_SDA|NetColor=$00FFFF6E
 Net24=NetName=LASER_SPI_MISO|NetColor=$00FFFF6E
 Net25=NetName=LASER_SPI_MOSI|NetColor=$00FFFF6E
 Net26=NetName=LASER_SPI_SCK|NetColor=$00FFFF6E
-Net27=NetName=NTC1+|NetColor=$00FF99FF
-Net28=NetName=NTC2+|NetColor=$00FF99FF
-Net29=NetName=NTC3+|NetColor=$00FF99FF
-Net30=NetName=NTC4+|NetColor=$00FF99FF
-Net31=NetName=NTC5+|NetColor=$00FF99FF
-Net32=NetName=NTC6+|NetColor=$00FF99FF
-Net33=NetName=NTC7+|NetColor=$00FF99FF
-Net34=NetName=NTC8+|NetColor=$00FF99FF
-Net35=NetName=PHOTO_SPI7_MISO|NetColor=$00FFFF6E
-Net36=NetName=PHOTO_SPI7_MOSI|NetColor=$00FFFF6E
-Net37=NetName=PHOTO_SPI7_SCK|NetColor=$00FFFF6E
-Net38=NetName=SENSOR_I2C1_SCL|NetColor=$00FFFF6E
-Net39=NetName=SENSOR_I2C1_SDA|NetColor=$00FFFF6E
-Net40=NetName=SOLENOID_CTR_1|NetColor=clRed
-Net41=NetName=SOM_ADC_SPI_SCLK|NetColor=$00FFFF6E
-Net42=NetName=SOM_ADC_SPI_SDI|NetColor=$00FFFF6E
-Net43=NetName=SOM_ADC_SPI_SDO|NetColor=$00FFFF6E
-Net44=NetName=SOM_CAM_I2C3_SCL|NetColor=$00FFFF6E
-Net45=NetName=SOM_CAM_I2C3_SDA|NetColor=$00FFFF6E
-Net46=NetName=SOM_HD42_I2C8_SCL|NetColor=$00FFFF6E
-Net47=NetName=SOM_HD42_I2C8_SDA|NetColor=$00FFFF6E
-Net48=NetName=SOM_I2C4_SCL|NetColor=$00FFFF6E
-Net49=NetName=SOM_I2C4_SDA|NetColor=$00FFFF6E
-Net50=NetName=SOM_I2C5_SCL|NetColor=$00FFFF6E
-Net51=NetName=SOM_I2C5_SDA|NetColor=$00FFFF6E
-Net52=NetName=SOM_IOX_I2C7_SCL|NetColor=$00FFFF6E
-Net53=NetName=SOM_IOX_I2C7_SDA|NetColor=$00FFFF6E
-Net54=NetName=SOM_LED_SPI_SCK|NetColor=$00FFFF6E
-Net55=NetName=SOM_LED_SPI_SDI|NetColor=$00FFFF6E
-Net56=NetName=SOM_TEC_SPI6_MISO|NetColor=$00FFFF6E
-Net57=NetName=SOM_TEC_SPI6_MOSI|NetColor=$00FFFF6E
-Net58=NetName=SOM_TEC_SPI6_SCK|NetColor=$00FFFF6E
-Net59=NetName=SPI1_MISO|NetColor=$00FFFF6E
-Net60=NetName=SPI1_MOSI|NetColor=$00FFFF6E
-Net61=NetName=SPI1_SCK|NetColor=$00FFFF6E
-Net62=NetName=SPI5_MISO|NetColor=$00FFFF6E
-Net63=NetName=SPI5_MOSI|NetColor=$00FFFF6E
-Net64=NetName=SPI5_SCK|NetColor=$00FFFF6E
+Net27=NetName=MCU_HD4_I2C2_SCL|NetColor=$0099CC00
+Net28=NetName=MCU_HD4_I2C2_SDA|NetColor=$0099CC00
+Net29=NetName=MCU_I2C0_SCL|NetColor=$00CC9900
+Net30=NetName=MCU_I2C0_SDA|NetColor=$00CC9900
+Net31=NetName=MCU_SPI0_MISO|NetColor=$0033FFCC
+Net32=NetName=MCU_SPI0_MOSI|NetColor=$0033FFCC
+Net33=NetName=MCU_SPI0_SCK|NetColor=$0033FFCC
+Net34=NetName=MCU_SPI1_MISO|NetColor=$0033FF66
+Net35=NetName=MCU_SPI1_MOSI|NetColor=$0033FF66
+Net36=NetName=MCU_SPI1_SCK|NetColor=$0033FF66
+Net37=NetName=NTC1+|NetColor=$00FF99FF
+Net38=NetName=NTC2+|NetColor=$00FF99FF
+Net39=NetName=NTC3+|NetColor=$00FF99FF
+Net40=NetName=NTC4+|NetColor=$00FF99FF
+Net41=NetName=NTC5+|NetColor=$00FF99FF
+Net42=NetName=NTC6+|NetColor=$00FF99FF
+Net43=NetName=NTC7+|NetColor=$00FF99FF
+Net44=NetName=NTC8+|NetColor=$00FF99FF
+Net45=NetName=PHOTO_SPI7_MISO|NetColor=$00FFFF6E
+Net46=NetName=PHOTO_SPI7_MOSI|NetColor=$00FFFF6E
+Net47=NetName=PHOTO_SPI7_SCK|NetColor=$00FFFF6E
+Net48=NetName=SENSOR_I2C1_SCL|NetColor=$00FFFF6E
+Net49=NetName=SENSOR_I2C1_SDA|NetColor=$00FFFF6E
+Net50=NetName=SOLENOID_CTR_1|NetColor=clRed
+Net51=NetName=SOM_ADC_SPI_SCLK|NetColor=$00FFFF6E
+Net52=NetName=SOM_ADC_SPI_SDI|NetColor=$00FFFF6E
+Net53=NetName=SOM_ADC_SPI_SDO|NetColor=$00FFFF6E
+Net54=NetName=SOM_CAM_I2C3_SCL|NetColor=$00FFFF6E
+Net55=NetName=SOM_CAM_I2C3_SDA|NetColor=$00FFFF6E
+Net56=NetName=SOM_HD42_I2C8_SCL|NetColor=$00FFFF6E
+Net57=NetName=SOM_HD42_I2C8_SDA|NetColor=$00FFFF6E
+Net58=NetName=SOM_I2C4_SCL|NetColor=$00FFFF6E
+Net59=NetName=SOM_I2C4_SDA|NetColor=$00FFFF6E
+Net60=NetName=SOM_I2C5_SCL|NetColor=$00FFFF6E
+Net61=NetName=SOM_I2C5_SDA|NetColor=$00FFFF6E
+Net62=NetName=SOM_IOX_I2C7_SCL|NetColor=$00FFFF6E
+Net63=NetName=SOM_IOX_I2C7_SDA|NetColor=$00FFFF6E
+Net64=NetName=SOM_LED_SPI_SCK|NetColor=$00FFFF6E
+Net65=NetName=SOM_LED_SPI_SDI|NetColor=$00FFFF6E
+Net66=NetName=SOM_TEC_SPI6_MISO|NetColor=$00FFFF6E
+Net67=NetName=SOM_TEC_SPI6_MOSI|NetColor=$00FFFF6E
+Net68=NetName=SOM_TEC_SPI6_SCK|NetColor=$00FFFF6E
+Net69=NetName=SPI1_MISO|NetColor=$00FFFF6E
+Net70=NetName=SPI1_MOSI|NetColor=$00FFFF6E
+Net71=NetName=SPI1_SCK|NetColor=$00FFFF6E
+Net72=NetName=SPI5_MISO|NetColor=$00FFFF6E
+Net73=NetName=SPI5_MOSI|NetColor=$00FFFF6E
+Net74=NetName=SPI5_SCK|NetColor=$00FFFF6E
+Net75=NetName=TEC_SPI_MISO|NetColor=$0033FF66
+Net76=NetName=TEC_SPI_MOSI|NetColor=$0033FF66
+Net77=NetName=TEC_SPI_SCK|NetColor=$0033FF66
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0

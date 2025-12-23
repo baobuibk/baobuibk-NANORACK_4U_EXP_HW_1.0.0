@@ -18,6 +18,8 @@ Record=NoMainPathDocument|SourceDocument=01_COVER PAGE.SchDoc|FileName=10_NTC_TE
 Record=NoMainPathDocument|SourceDocument=01_COVER PAGE.SchDoc|FileName=11_HEATER.SchDoc|SheetNumber=18
 Record=NoMainPathDocument|SourceDocument=01_COVER PAGE.SchDoc|FileName=12_TEC.SchDoc|SheetNumber=19
 Record=NoMainPathDocument|SourceDocument=01_COVER PAGE.SchDoc|FileName=13_FLOW_Sensor.SchDoc|SheetNumber=20
-Record=NoMainPathDocument|SourceDocument=01_COVER PAGE.SchDoc|FileName=14_HD4_PUMP.SchDoc|SheetNumber=21
-Record=NoMainPathDocument|SourceDocument=01_COVER PAGE.SchDoc|FileName=15_SOLEDNOID.SchDoc|SheetNumber=22
-Record=NoMainPathDocument|SourceDocument=01_COVER PAGE.SchDoc|FileName=MOUTING.SchDoc|SheetNumber=23
+Record=NoMainPathDocument|SourceDocument=01_COVER PAGE.SchDoc|FileName=13_Sensors_Onboard.SchDoc|SheetNumber=21
+Record=NoMainPathDocument|SourceDocument=01_COVER PAGE.SchDoc|FileName=14_HD4_PUMP.SchDoc|SheetNumber=22
+Record=NoMainPathDocument|SourceDocument=01_COVER PAGE.SchDoc|FileName=15_SOLEDNOID.SchDoc|SheetNumber=23
+Record=NoMainPathDocument|SourceDocument=01_COVER PAGE.SchDoc|FileName=15_SOLENOID 2.SchDoc|SheetNumber=24
+Record=NoMainPathDocument|SourceDocument=01_COVER PAGE.SchDoc|FileName=MOUTING.SchDoc|SheetNumber=25
