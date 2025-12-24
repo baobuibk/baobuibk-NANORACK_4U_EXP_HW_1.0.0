@@ -305,7 +305,7 @@ GenerateClassCluster=0
 DocumentUniqueId=LFVGYKCC
 
 [Document16]
-DocumentPath=..\..\..\..\.shortcut-targets-by-id\1B8WPm6aLPymLOuz51mDqoItb9KAC0_hA\0_LAB_LIB\0_LIB\LABLIB.PcbLib
+DocumentPath=G:\Other computers\My Laptop\0_LAB_LIB\0_LIB\LABLIB.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -319,10 +319,10 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=GFWWSLYY
+DocumentUniqueId=
 
 [Document17]
-DocumentPath=..\..\..\..\.shortcut-targets-by-id\1B8WPm6aLPymLOuz51mDqoItb9KAC0_hA\0_LAB_LIB\0_LIB\LABLIB.SchLib
+DocumentPath=G:\Other computers\My Laptop\0_LAB_LIB\0_LIB\LABLIB.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -336,10 +336,10 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=JFXOFFXT
+DocumentUniqueId=
 
 [Document18]
-DocumentPath=..\..\..\..\.shortcut-targets-by-id\1B8WPm6aLPymLOuz51mDqoItb9KAC0_hA\0_LAB_LIB\0_LIB\new_component.PcbLib
+DocumentPath=G:\Other computers\My Laptop\0_LAB_LIB\0_LIB\new_component.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -353,10 +353,10 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=AGNYTDXW
+DocumentUniqueId=
 
 [Document19]
-DocumentPath=..\..\..\..\.shortcut-targets-by-id\1B8WPm6aLPymLOuz51mDqoItb9KAC0_hA\0_LAB_LIB\0_LIB\new_component.SchLib
+DocumentPath=G:\Other computers\My Laptop\0_LAB_LIB\0_LIB\new_component.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -370,7 +370,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=JTXOZHHS
+DocumentUniqueId=
 
 [Document20]
 DocumentPath=09_MRAM_RTC_WDT.SchDoc
