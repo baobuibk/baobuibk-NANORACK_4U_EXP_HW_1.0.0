@@ -2073,6 +2073,10 @@ Net74=NetName=SPI5_SCK|NetColor=$00FFFF6E
 Net75=NetName=TEC_SPI_MISO|NetColor=$0033FF66
 Net76=NetName=TEC_SPI_MOSI|NetColor=$0033FF66
 Net77=NetName=TEC_SPI_SCK|NetColor=$0033FF66
+Net78=NetName=VDD_3V3_MPU|NetColor=$006699FF
+Net79=NetName=VDDCORE|NetColor=$000099FF
+Net80=NetName=VDDIODDR|NetColor=$0066FFFF
+Net81=NetName=VDDUTMII|NetColor=$000066FF
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
