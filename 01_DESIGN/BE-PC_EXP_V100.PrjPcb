@@ -152,7 +152,7 @@ GenerateClassCluster=0
 DocumentUniqueId=DQNRTQVC
 
 [Document7]
-DocumentPath=05_POWER.SchDoc
+DocumentPath=05_POWER_SAMA7.Doc.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -169,7 +169,7 @@ GenerateClassCluster=0
 DocumentUniqueId=EYOUXXON
 
 [Document8]
-DocumentPath=05_POWER_2.SchDoc
+DocumentPath=05_POWER_MCU_1.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -186,6 +186,23 @@ GenerateClassCluster=0
 DocumentUniqueId=JFUSCPGM
 
 [Document9]
+DocumentPath=05_POWER_MCU_2.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=AFOOHAAE
+
+[Document10]
 DocumentPath=06_SOM_USB_CARD.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -202,7 +219,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JSGUBXHC
 
-[Document10]
+[Document11]
 DocumentPath=06_SOM_Console.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -219,7 +236,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TRHGUNKU
 
-[Document11]
+[Document12]
 DocumentPath=06_SOM_CAM.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -236,7 +253,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LLBERQRO
 
-[Document12]
+[Document13]
 DocumentPath=07_eMMC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -253,7 +270,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TTGEDXBF
 
-[Document13]
+[Document14]
 DocumentPath=07_USB.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -270,7 +287,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GKDZFSWE
 
-[Document14]
+[Document15]
 DocumentPath=08_MCU.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -287,7 +304,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LFVGYKCC
 
-[Document15]
+[Document16]
 DocumentPath=G:\Other computers\My Laptop\0_LAB_LIB\0_LIB\LABLIB.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -304,7 +321,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GFWWSLYY
 
-[Document16]
+[Document17]
 DocumentPath=G:\Other computers\My Laptop\0_LAB_LIB\0_LIB\LABLIB.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -321,7 +338,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JFXOFFXT
 
-[Document17]
+[Document18]
 DocumentPath=G:\Other computers\My Laptop\0_LAB_LIB\0_LIB\new_component.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -338,7 +355,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document18]
+[Document19]
 DocumentPath=G:\Other computers\My Laptop\0_LAB_LIB\0_LIB\new_component.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -355,7 +372,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JTXOZHHS
 
-[Document19]
+[Document20]
 DocumentPath=09_MRAM_RTC_WDT.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -372,7 +389,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SUGBHWHW
 
-[Document20]
+[Document21]
 DocumentPath=10_NTC_TEMPSENSOR.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -389,7 +406,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DENCCUAE
 
-[Document21]
+[Document22]
 DocumentPath=11_HEATER.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -406,7 +423,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WGNBUCQC
 
-[Document22]
+[Document23]
 DocumentPath=12_TEC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -423,7 +440,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EZMQQJFI
 
-[Document23]
+[Document24]
 DocumentPath=13_FLOW_Sensor.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -440,7 +457,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OASGOWJC
 
-[Document24]
+[Document25]
 DocumentPath=13_Sensors_Onboard.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -457,7 +474,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BQABJPEV
 
-[Document25]
+[Document26]
 DocumentPath=14_HD4_PUMP.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -474,7 +491,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MPQATRTQ
 
-[Document26]
+[Document27]
 DocumentPath=15_SOLEDNOID.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -491,7 +508,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BBZRSVNY
 
-[Document27]
+[Document28]
 DocumentPath=15_SOLENOID 2.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -508,7 +525,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BQHDFLIY
 
-[Document28]
+[Document29]
 DocumentPath=MOUTING.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -525,7 +542,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GKWPWHIP
 
-[Document29]
+[Document30]
 DocumentPath=BEE-PC_EXP_V100.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -542,7 +559,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SWVTUULP
 
-[Document30]
+[Document31]
 DocumentPath=BEE-PC_EXP_V100.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -559,7 +576,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document31]
+[Document32]
 DocumentPath=SLT.PCBDwf
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -576,7 +593,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TZJFRVZN
 
-[Document32]
+[Document33]
 DocumentPath=06_SAMA7G54-PMIC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -593,7 +610,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BIKFRELF
 
-[Document33]
+[Document34]
 DocumentPath=06_SAMA7G54-MPU.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -610,7 +627,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TLVGYFRZ
 
-[Document34]
+[Document35]
 DocumentPath=06_SAMA7G54-PIO.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -627,7 +644,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WTWDJOWX
 
-[Document35]
+[Document36]
 DocumentPath=06_SAMA7G54-DDR3.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2070,51 +2087,54 @@ Net33=NetName=MCU_SPI0_SCK|NetColor=$0033FFCC
 Net34=NetName=MCU_SPI1_MISO|NetColor=$0033FF66
 Net35=NetName=MCU_SPI1_MOSI|NetColor=$0033FF66
 Net36=NetName=MCU_SPI1_SCK|NetColor=$0033FF66
-Net37=NetName=NTC1+|NetColor=$00FF99FF
-Net38=NetName=NTC2+|NetColor=$00FF99FF
-Net39=NetName=NTC3+|NetColor=$00FF99FF
-Net40=NetName=NTC4+|NetColor=$00FF99FF
-Net41=NetName=NTC5+|NetColor=$00FF99FF
-Net42=NetName=NTC6+|NetColor=$00FF99FF
-Net43=NetName=NTC7+|NetColor=$00FF99FF
-Net44=NetName=NTC8+|NetColor=$00FF99FF
-Net45=NetName=PHOTO_SPI7_MISO|NetColor=$00FFFF6E
-Net46=NetName=PHOTO_SPI7_MOSI|NetColor=$00FFFF6E
-Net47=NetName=PHOTO_SPI7_SCK|NetColor=$00FFFF6E
-Net48=NetName=SENSOR_I2C1_SCL|NetColor=$00FFFF6E
-Net49=NetName=SENSOR_I2C1_SDA|NetColor=$00FFFF6E
-Net50=NetName=SOLENOID_CTR_1|NetColor=clRed
-Net51=NetName=SOM_ADC_SPI_SCLK|NetColor=$00FFFF6E
-Net52=NetName=SOM_ADC_SPI_SDI|NetColor=$00FFFF6E
-Net53=NetName=SOM_ADC_SPI_SDO|NetColor=$00FFFF6E
-Net54=NetName=SOM_CAM_I2C3_SCL|NetColor=$00FFFF6E
-Net55=NetName=SOM_CAM_I2C3_SDA|NetColor=$00FFFF6E
-Net56=NetName=SOM_HD42_I2C8_SCL|NetColor=$00FFFF6E
-Net57=NetName=SOM_HD42_I2C8_SDA|NetColor=$00FFFF6E
-Net58=NetName=SOM_I2C4_SCL|NetColor=$00FFFF6E
-Net59=NetName=SOM_I2C4_SDA|NetColor=$00FFFF6E
-Net60=NetName=SOM_I2C5_SCL|NetColor=$00FFFF6E
-Net61=NetName=SOM_I2C5_SDA|NetColor=$00FFFF6E
-Net62=NetName=SOM_IOX_I2C7_SCL|NetColor=$00FFFF6E
-Net63=NetName=SOM_IOX_I2C7_SDA|NetColor=$00FFFF6E
-Net64=NetName=SOM_LED_SPI_SCK|NetColor=$00FFFF6E
-Net65=NetName=SOM_LED_SPI_SDI|NetColor=$00FFFF6E
-Net66=NetName=SOM_TEC_SPI6_MISO|NetColor=$00FFFF6E
-Net67=NetName=SOM_TEC_SPI6_MOSI|NetColor=$00FFFF6E
-Net68=NetName=SOM_TEC_SPI6_SCK|NetColor=$00FFFF6E
-Net69=NetName=SPI1_MISO|NetColor=$00FFFF6E
-Net70=NetName=SPI1_MOSI|NetColor=$00FFFF6E
-Net71=NetName=SPI1_SCK|NetColor=$00FFFF6E
-Net72=NetName=SPI5_MISO|NetColor=$00FFFF6E
-Net73=NetName=SPI5_MOSI|NetColor=$00FFFF6E
-Net74=NetName=SPI5_SCK|NetColor=$00FFFF6E
-Net75=NetName=TEC_SPI_MISO|NetColor=$0033FF66
-Net76=NetName=TEC_SPI_MOSI|NetColor=$0033FF66
-Net77=NetName=TEC_SPI_SCK|NetColor=$0033FF66
-Net78=NetName=VDD_3V3_MPU|NetColor=$006699FF
-Net79=NetName=VDDCORE|NetColor=$000099FF
-Net80=NetName=VDDIODDR|NetColor=$0066FFFF
-Net81=NetName=VDDUTMII|NetColor=$000066FF
+Net37=NetName=MCU_USART_RXD2|NetColor=$00009900
+Net38=NetName=MCU_USART_SCK2|NetColor=$00009900
+Net39=NetName=MCU_USART_TXD2|NetColor=$00009900
+Net40=NetName=NTC1+|NetColor=$00FF99FF
+Net41=NetName=NTC2+|NetColor=$00FF99FF
+Net42=NetName=NTC3+|NetColor=$00FF99FF
+Net43=NetName=NTC4+|NetColor=$00FF99FF
+Net44=NetName=NTC5+|NetColor=$00FF99FF
+Net45=NetName=NTC6+|NetColor=$00FF99FF
+Net46=NetName=NTC7+|NetColor=$00FF99FF
+Net47=NetName=NTC8+|NetColor=$00FF99FF
+Net48=NetName=PHOTO_SPI7_MISO|NetColor=$00FFFF6E
+Net49=NetName=PHOTO_SPI7_MOSI|NetColor=$00FFFF6E
+Net50=NetName=PHOTO_SPI7_SCK|NetColor=$00FFFF6E
+Net51=NetName=SENSOR_I2C1_SCL|NetColor=$00FFFF6E
+Net52=NetName=SENSOR_I2C1_SDA|NetColor=$00FFFF6E
+Net53=NetName=SOLENOID_CTR_1|NetColor=clRed
+Net54=NetName=SOM_ADC_SPI_SCLK|NetColor=$00FFFF6E
+Net55=NetName=SOM_ADC_SPI_SDI|NetColor=$00FFFF6E
+Net56=NetName=SOM_ADC_SPI_SDO|NetColor=$00FFFF6E
+Net57=NetName=SOM_CAM_I2C3_SCL|NetColor=$00FFFF6E
+Net58=NetName=SOM_CAM_I2C3_SDA|NetColor=$00FFFF6E
+Net59=NetName=SOM_HD42_I2C8_SCL|NetColor=$00FFFF6E
+Net60=NetName=SOM_HD42_I2C8_SDA|NetColor=$00FFFF6E
+Net61=NetName=SOM_I2C4_SCL|NetColor=$00FFFF6E
+Net62=NetName=SOM_I2C4_SDA|NetColor=$00FFFF6E
+Net63=NetName=SOM_I2C5_SCL|NetColor=$00FFFF6E
+Net64=NetName=SOM_I2C5_SDA|NetColor=$00FFFF6E
+Net65=NetName=SOM_IOX_I2C7_SCL|NetColor=$00FFFF6E
+Net66=NetName=SOM_IOX_I2C7_SDA|NetColor=$00FFFF6E
+Net67=NetName=SOM_LED_SPI_SCK|NetColor=$00FFFF6E
+Net68=NetName=SOM_LED_SPI_SDI|NetColor=$00FFFF6E
+Net69=NetName=SOM_TEC_SPI6_MISO|NetColor=$00FFFF6E
+Net70=NetName=SOM_TEC_SPI6_MOSI|NetColor=$00FFFF6E
+Net71=NetName=SOM_TEC_SPI6_SCK|NetColor=$00FFFF6E
+Net72=NetName=SPI1_MISO|NetColor=$00FFFF6E
+Net73=NetName=SPI1_MOSI|NetColor=$00FFFF6E
+Net74=NetName=SPI1_SCK|NetColor=$00FFFF6E
+Net75=NetName=SPI5_MISO|NetColor=$00FFFF6E
+Net76=NetName=SPI5_MOSI|NetColor=$00FFFF6E
+Net77=NetName=SPI5_SCK|NetColor=$00FFFF6E
+Net78=NetName=TEC_SPI_MISO|NetColor=$0033FF66
+Net79=NetName=TEC_SPI_MOSI|NetColor=$0033FF66
+Net80=NetName=TEC_SPI_SCK|NetColor=$0033FF66
+Net81=NetName=VDD_3V3_MPU|NetColor=$006699FF
+Net82=NetName=VDDCORE|NetColor=$000099FF
+Net83=NetName=VDDIODDR|NetColor=$0066FFFF
+Net84=NetName=VDDUTMII|NetColor=$000066FF
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
